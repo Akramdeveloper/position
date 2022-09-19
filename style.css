@@ -1,0 +1,35 @@
+.parent{
+    width: 600px;
+    border: 2px solid red;
+    margin: auto;
+    padding: 20px;
+}
+h1{
+    background-color: aqua;
+    position: sticky;
+    top: 20px;
+}
+.one{
+    background-color: blue;
+    position: relative;
+    top: 100px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.two{
+    background-color: #51ff00;
+    position: relative;
+    top: 100px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.three{
+    background-color: #bd16a6;
+    position: relative;
+    top: 100px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
